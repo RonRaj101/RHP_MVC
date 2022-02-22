@@ -1,0 +1,15 @@
+{
+    "name": "ronit/cmvc",
+    "authors": [
+        {
+            "name": "Ronit Rai",
+            "email": "43289911+RonRaj101@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
