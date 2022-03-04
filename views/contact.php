@@ -2,7 +2,7 @@
 
 ?>
 
-<form class="p-5 m-5">
+<form class="p-5 m-5" action="" method="post">
     <div class="mb-3">
         <label for="name" class="form-label">Name</label>
         <input type="text" name="name" class="form-control" id="name">
